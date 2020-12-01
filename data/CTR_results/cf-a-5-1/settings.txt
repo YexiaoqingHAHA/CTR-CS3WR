@@ -1,0 +1,12 @@
+a = 1.0000
+b = 0.0100
+lambda_u = 0.0100
+lambda_v = 100.0000
+learning_rate = -1.000000
+alpha_smooth = 0.000000
+random seed = 1595391454
+max iter = 200
+save lag = 20
+theta opt = 1
+ctr run = 1
+lda_regression = 0
