@@ -9,27 +9,23 @@ The whole program including four parts: downloading the datasets, training the m
 http://www.citeulike.org/faq/data.adp
 
 ## 2.model training
-  ```
-  sh run_a.sh
-  ```
+```
+sh run_a.sh
+```
 
 or 
-  ```
-  sh run_t.sh
-  ```
+```
+sh run_t.sh
+```
 ## 3.recommendation making
 ```
-  cd ./CS3WR
+cd ./CS3WR
 
-  python main.py
+python main.py
 ```
 ## 4.results processing
 ```
-  cd ./CS3WR
+cd ./CS3WR
 
-  python process_results.py
-<<<<<<< HEAD
+python process_results.py
 ```
-=======
-```
->>>>>>> 80fa5f4df53a7d9544ca9f083a1e347d23c4faaf
