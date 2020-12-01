@@ -1,5 +1,5 @@
 # CTR-CS3WR
-This is the Github repository containing the code for "An interpretable sequential three-way recommendation based on collaborative topic regression"
+This repository contains the code of the paper  "An interpretable sequential three-way recommendation based on collaborative topic regression"
 
 It benefited greatly from https://github.com/blei-lab/ctr
 
@@ -9,7 +9,7 @@ The whole program including four parts: downloading the datasets, training the m
 http://www.citeulike.org/faq/data.adp
 
 ## 2.model training
-  ~sh run_a.sh~ 
+  `sh run_a.sh`
 
 or 
 
