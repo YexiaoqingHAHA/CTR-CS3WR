@@ -257,7 +257,7 @@ if __name__=="__main__":
     precision_avg = 0
     accuracy_avg = 0
     n = 0
-    test_folds = 1
+    test_folds = 20
     data_list = ["citeulike-a", "citeulike-t"]
     method_name_list=['CF','LDA','CTR']
     num_processes=6
@@ -278,11 +278,11 @@ if __name__=="__main__":
     
     for data_name in data_list:
         if data_name=="citeulike-a":
-            max_hidden_neuron = 10
+            max_hidden_neuron = 100
             min_hidden_neuron=5
             step=5
         else:
-            max_hidden_neuron = 6
+            max_hidden_neuron = 49
             min_hidden_neuron=3
             step=2
         for method_name in method_name_list:
