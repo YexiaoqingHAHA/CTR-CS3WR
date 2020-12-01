@@ -14,13 +14,18 @@ http://www.citeulike.org/faq/data.adp
   ```
 
 or 
-
+  ```
   sh run_t.sh
+  ```
 ## 3.recommendation making
+```
   cd ./CS3WR
 
   python main.py
+```
 ## 4.results processing
+```
   cd ./CS3WR
 
   python process_results.py
+```
