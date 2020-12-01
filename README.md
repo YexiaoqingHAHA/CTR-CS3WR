@@ -9,7 +9,9 @@ The whole program including four parts: downloading the datasets, training the m
 http://www.citeulike.org/faq/data.adp
 
 ## 2.model training
-  `sh run_a.sh`
+  ```
+  sh run_a.sh
+  ```
 
 or 
 
