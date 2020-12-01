@@ -28,4 +28,8 @@ or
   cd ./CS3WR
 
   python process_results.py
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 80fa5f4df53a7d9544ca9f083a1e347d23c4faaf
